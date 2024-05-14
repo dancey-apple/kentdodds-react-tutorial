@@ -1,2 +1,2 @@
 # kentdodds-react-tutorial
-Clone of github.com/kentcdodd/beginners-guide-to-react
+Clone of Kent Dodd's <a href="https://github.com/kentcdodds/beginners-guide-to-react/tree/egghead">"Beginner's Guide to React"</a>
